@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Merdan Merdan</h1>
-<h3 align="center">I'm fronted developer with 1+ years of experience designing and implementing high-performance. Proficient in modern web technologies including HTML5, CSS3, ECMAScript, ReactJS, Redux, and TypeScript, with a strong focus on creating responsive, mobile-first designs using TailwindCSS.</h3>
+<h1 align="center">Hi 👋, I'm Merdan</h1>
+<h3 align="center">I'm fronted developer with 1+ years of implementing high-performance. Proficient in modern web technologies including HTML5, CSS3, ECMAScript, ReactJS, Redux with a strong focus on creating responsive, mobile-first designs using TailwindCSS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merdan-hudaygulyyev&label=Profile%20views&color=0e75b6&style=flat" alt="merdan-hudaygulyyev" /> </p>
 
