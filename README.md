@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merdan-hudaygulyyev" alt="merdan-hudaygulyyev" /></a> </p>
 
-- 🔭 I’m currently working on **BMDU(Education manage)**
-
 - 👨‍💻 All of my projects are available at [github.com/merdan-hudaygulyyev](github.com/merdan-hudaygulyyev)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/hudaygulyyev](https://www.linkedin.com/in/hudaygulyyev)
